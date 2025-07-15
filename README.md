@@ -6,3 +6,6 @@ if the CMD window is closed, it wont work, if you close it, dont worry, the inst
 
 # DEPENDENCIES: NONE
 the installer installs python if you don't have it, along with all the neccissary modules and ollama either way!
+
+# Installation
+**Latest release**
